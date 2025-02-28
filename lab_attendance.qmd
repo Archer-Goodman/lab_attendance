@@ -3,6 +3,9 @@ title: "lab_attendance"
 format: html
 name: Archer Goodman
 editor: visual
+
+execute: 
+  echo: TRUE
 ---
 
 ## I have learned how to make a website with Quarto and Github
